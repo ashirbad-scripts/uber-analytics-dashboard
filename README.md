@@ -22,7 +22,8 @@ The dashboard was developed to analyze Uber ride data across different dimension
 
 * Total bookings, total revenue, ride volume trend, booking status breakdown.
 
-![Overall Page](./screenshots/overall.png)
+![Overall Page](https://i.ibb.co/prrXmmYD/Screenshot-2025-10-03-190845.png)
+
 
 ### 2. Revenue
 
