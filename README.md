@@ -29,25 +29,25 @@ The dashboard was developed to analyze Uber ride data across different dimension
 
 * Ride distance distribution, revenue by payment method, top 5 customers.
 
-![Revenue Page](./screenshots/revenue.png)
+![Revenue Page](https://i.ibb.co/8DNHWmcS/Screenshot-2025-10-03-190902.png)
 
 ### 3. Vehicle Type
 
 * Booking values, successful bookings, avg. distance, total distance (by vehicle category).
 
-![Vehicle Type Page](./screenshots/vehicletype.png)
+![Vehicle Type Page](https://i.ibb.co/fVQvKNj7/Screenshot-2025-10-03-190930.png)
 
 ### 4. Cancellation
 
 * Cancellation trends and reasons (by customer/driver/no driver found).
 
-![Cancellation Page](./screenshots/cancellation.png)
+![Cancellation Page](https://i.ibb.co/DfmYYc5g/Screenshot-2025-10-03-190956.png)
 
 ### 5. Ratings
 
 * Customer and driver ratings overview.
 
-![Ratings Page](./screenshots/ratings.png)
+![Ratings Page](https://i.ibb.co/twjPKQ0N/Screenshot-2025-10-03-191007.png)
 
 ## 📈 Key Findings
 
