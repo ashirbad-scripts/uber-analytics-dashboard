@@ -44,7 +44,7 @@ The dashboard was developed to analyze Uber ride data across different dimension
 
 * Cancellation trends and reasons (by customer/driver/no driver found).
 
-![Cancellation Page](https://i.ibb.co/Y7bgpTSv/cancellation.png)
+![Cancellation Page](https://i.ibb.co/m50X8bR8/cancellation.png)
 
 ### 5. Ratings
 
