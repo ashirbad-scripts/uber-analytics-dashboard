@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-An **Excel-based interactive dashboard** created using Uber-themed data. The dashboard provides insights into bookings, revenue, vehicle types, cancellations, and ratings with a design aligned to Uber’s brand style.
+This project features an **Excel-based interactive dashboard** built using Uber’s 2024 dataset containing over **1 million rows of ride data**. The dashboard consolidates large-scale data into actionable insights on bookings, revenue, vehicle types, cancellations, and ratings, presented with a design aligned to Uber’s brand style.
 
 ## 🎯 Project Purpose
 
@@ -14,7 +14,6 @@ The dashboard was developed to analyze Uber ride data across different dimension
 * **Power Query** (Data cleaning & preprocessing)
 * **Power Pivot** (Data modeling)
 * **Slicers & Interactivity** (Quarter / Month filters)
-* **Uber Color Palette** for brand consistency
 
 ## 📊 Dashboard Sections
 
@@ -59,5 +58,5 @@ The dashboard was developed to analyze Uber ride data across different dimension
 
 ---
 
-✅ **Status:** Completed
-📌 **Skill Tags:** Excel, Power Query, Power Pivot, Data Visualization, Business Analytics
+## Creator
+**Created By :-** Ashirbad Routray <br> **Completed On :-** September 2025
