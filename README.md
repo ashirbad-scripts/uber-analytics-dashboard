@@ -1,4 +1,4 @@
-# Uber Dashboard (Excel Project)
+# Uber Data Analytics Dashboard
 
 ## 📌 Project Overview
 
